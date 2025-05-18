@@ -90,4 +90,4 @@ Sistem **SA-TM** adalah aplikasi berbasis Streamlit yang memungkinkan pengguna u
 
 ## 🔗 Akses Online
 Jika tersedia versi online, bisa diakses melalui: <br>
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sa-tm-79v0n9cp9mu.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://research-sa-tm-bhsyk9jcppvbanknskmhes.streamlit.app/)
