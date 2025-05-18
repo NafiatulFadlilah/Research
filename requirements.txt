@@ -1,0 +1,12 @@
+streamlit
+wordcloud
+plotly
+openpyxl
+streamlit-option-menu
+pandas
+matplotlib
+wordcloud
+pyldavis
+scikit-learn
+sastrawi
+joblib
