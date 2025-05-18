@@ -36,7 +36,7 @@ Sistem **SA-TM** adalah aplikasi berbasis Streamlit yang memungkinkan pengguna u
 
 ## 📁 Struktur Direktori
 
-📦SA-TM/ <br>
+📦Research/ <br>
 ├── data/ <br>
 │ └── additional_dict-alay.csv # File additional dictionary kata gaul <br>
 │ └── after_preprocessing.xlsx # Data komentar hasil preprocessing awal <br>
@@ -61,8 +61,8 @@ Sistem **SA-TM** adalah aplikasi berbasis Streamlit yang memungkinkan pengguna u
 
 1. **Clone repositori** dan masuk ke direktori:
    ```bash
-   git clone https://github.com/NafiatulFadlilah/sa-tm-streamlit.git
-   cd sa-tm-streamlit
+   git clone https://github.com/NafiatulFadlilah/Research.git
+   cd Research
    ```
 2. Install dependensi
    ```
